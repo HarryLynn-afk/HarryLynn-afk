@@ -74,6 +74,3 @@
 
 I use **Codex, Cursor Agent, Claude, and Claude Code** to turn requirements into working projects through research, task decomposition, and iterative prompting. Development is substantially AI-assisted; each project README explains my contribution and limitations.
 
----
-
-<sub>Layout inspiration: <a href="https://github.com/anuraghazra/anuraghazra">Anurag Hazra</a> and <a href="https://github.com/DenverCoder1/DenverCoder1">DenverCoder1</a>. Banner created for this profile.</sub>
