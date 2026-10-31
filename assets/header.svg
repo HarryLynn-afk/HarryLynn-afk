@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kyaw Naing Lin — software and applied AI</title>
+  <desc id="desc">A dark navy banner with a coral greeting, large white name, and blue and coral geometric accents.</desc>
+  <rect width="1200" height="300" rx="20" fill="#101a2c"/>
+  <path d="M880 0h320v300H990z" fill="#14243d"/>
+  <g fill="none" stroke="#253c5b" stroke-width="1">
+    <path d="M950 0v300M1000 0v300M1050 0v300M1100 0v300M1150 0v300M900 50h300M910 100h290M930 150h270M950 200h250M970 250h230"/>
+  </g>
+  <rect x="58" y="52" width="48" height="5" rx="2.5" fill="#fa927f"/>
+  <text x="58" y="95" fill="#fa927f" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">HELLO, I'M</text>
+  <text x="55" y="160" fill="#f4f7fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Kyaw Naing Lin</text>
+  <text x="58" y="205" fill="#aebed5" font-family="Arial, Helvetica, sans-serif" font-size="22">Software engineering / Applied AI</text>
+  <text x="58" y="252" fill="#86bdf5" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">CURIOUS. BUILDING. ALWAYS LEARNING.</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="9">
+    <path d="m1020 110-35 35 35 35" stroke="#86bdf5"/>
+    <path d="m1100 110 35 35-35 35" stroke="#86bdf5"/>
+    <path d="m1075 95-30 100" stroke="#fa927f"/>
+  </g>
+</svg>
