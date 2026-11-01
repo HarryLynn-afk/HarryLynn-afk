@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kyaw-naing-linn-54074a332"><img src="https://img.shields.io/badge/LinkedIn-Connect-2867B2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kyaw-naing-lin-54074a332"><img src="https://img.shields.io/badge/LinkedIn-Connect-2867B2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:kyawnainglin1130@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-FA927F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Kyaw Naing Lin" /></a>
 </p>
 
@@ -41,7 +41,7 @@
 <p>Spoken Japanese interview practice with live captions and transcript-based AI feedback.</p>
 <p><b>In development</b> · university project<br/>Research evaluation pending</p>
 <p><sub>Next.js · TypeScript · Supabase · Groq</sub></p>
-<p><a href="https://nihongointerview.netlify.app"><b>Desktop preview →</b></a><br/><sub>Source currently private</sub></p>
+<p><a href="https://github.com/HarryLynn-afk/nihongo-mock-interview"><b>Code →</b></a> &nbsp; <a href="https://nihongointerview.netlify.app"><b>Desktop preview →</b></a></p>
 </td>
 </tr>
 </table>
